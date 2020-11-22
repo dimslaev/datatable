@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Zelda",
+    "last_name": "Duckham",
+    "email": "zduckham0@theglobeandmail.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Alwin",
+    "last_name": "Tompkin",
+    "email": "atompkin1@goodreads.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Sibbie",
+    "last_name": "Stollwerck",
+    "email": "sstollwerck2@moonfruit.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Sibby",
+    "last_name": "Skryne",
+    "email": "sskryne3@shutterfly.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Lydia",
+    "last_name": "Utting",
+    "email": "lutting4@slashdot.org",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Enoch",
+    "last_name": "Coulton",
+    "email": "ecoulton5@guardian.co.uk",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Bayard",
+    "last_name": "Volage",
+    "email": "bvolage6@tmall.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Amitie",
+    "last_name": "Sussams",
+    "email": "asussams7@yandex.ru",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Iris",
+    "last_name": "Fewell",
+    "email": "ifewell8@webmd.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Rhianna",
+    "last_name": "Denman",
+    "email": "rdenman9@discuz.net",
+    "gender": "Female"
+  }
+]
