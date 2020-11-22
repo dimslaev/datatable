@@ -1,0 +1,17 @@
+.datatable {
+  &-col-id {
+    display: none;
+  }
+
+  &-col-actions {
+    .button + .button {
+      margin-left: 8px;
+    }
+  }
+
+  &-actions {
+    .button + .button {
+      margin-left: 8px;
+    }
+  }
+}
